@@ -1,4 +1,4 @@
-import Game from './237.js'
+import Game from './Game'
 
 export default function Home() {
   return (
